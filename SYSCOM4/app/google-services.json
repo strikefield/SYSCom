@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137953685478",
+    "firebase_url": "https://syscom4-bfdfa.firebaseio.com",
+    "project_id": "syscom4-bfdfa",
+    "storage_bucket": "syscom4-bfdfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137953685478:android:a92c64ab514b0161697027",
+        "android_client_info": {
+          "package_name": "me.strike.syscom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137953685478-tjivt442qj5jn30c4s0b6ldaookq6tk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.strike.syscom",
+            "certificate_hash": "412b1cd26df2d594cbae1d084b8278e3c4b37be0"
+          }
+        },
+        {
+          "client_id": "137953685478-ole0mc4fkbu38l2pu1ss8lsdirpnesh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJWhplGvKiD_k3k6PEBrXHlkRUN0E-5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137953685478-ole0mc4fkbu38l2pu1ss8lsdirpnesh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
